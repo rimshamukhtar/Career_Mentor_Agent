@@ -41,16 +41,22 @@ career_mentor_agent/
 git clone https://github.com/your-username/career-mentor-agent.git
 cd career_mentor_agent
 
+---
+
 OPENAI_API_KEY=your_openai_key_here
 
 ## Start chainlit
 chainlit run main.py
+
+---
 
 ## Example Prompt
 "I want to become a data scientist"
 "How to enter the UI/UX design field?"
 "Give me a career roadmap for DevOps"
 "Suggest a plan to learn cloud computing"
+
+---
 
 ## 🌐 Tech Stack
 Python 3.10+
@@ -60,6 +66,8 @@ OpenAI Agent SDK
 Chainlit
 
 dotenv
+
+---
 
 🙋‍♀️**Built By**
 
