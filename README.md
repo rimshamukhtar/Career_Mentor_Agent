@@ -37,13 +37,14 @@ career_mentor_agent/
 ## 🚀 How to Run the Project
 
 ### 1. Clone the Repository
-```bash
+
 git clone https://github.com/your-username/career-mentor-agent.git
 cd career_mentor_agent
 
 ---
 
 OPENAI_API_KEY=your_openai_key_here
+
 
 ## Start chainlit
 chainlit run main.py
